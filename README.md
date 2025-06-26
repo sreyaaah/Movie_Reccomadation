@@ -1,8 +1,10 @@
  Movie Recommendation System
+ 
  The Movie Recommendation System is a machine learning-based application designed to suggest personalized movie
  recommendations to users. By leveraging both collaborative filtering and content-based filtering techniques, the system
  provides accurate and diverse suggestions based on user preferences and movie characteristics. This project
  demonstrates the practical application of recommendation algorithms using real-world data from the MovieLens dataset.
+ 
  2. Abstract
  This project implements a hybrid recommendation system that combines:
  
@@ -63,7 +65,6 @@
  -  Added loading spinners (st.spinner) for better UX.
    
  5. Conclusion
- 6. 
  The Movie Recommendation System successfully demonstrates how machine learning can enhance user experience by
  providing personalized suggestions. Key achievements:
  Accuracy: Hybrid approach mitigates limitations of individual methods (e.g., cold-start problem).
